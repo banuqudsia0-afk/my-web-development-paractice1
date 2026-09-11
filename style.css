@@ -50,7 +50,7 @@ nav button{
 }
 #Home::before{
      content: "";
-    background-image: url(/pink.png);
+    background-image: url(pink.png);
     background-size: cover;
     position: absolute;
     height: 90vh;
